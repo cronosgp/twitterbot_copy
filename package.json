@@ -1,0 +1,29 @@
+{
+  "name": "ttbot",
+  "version": "1.0.0",
+  "description": "Nodejs Twitter Generic Bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cronosgp/twitterbot.git"
+  },
+  "keywords": [
+    "Twitter",
+    "Generic",
+    "Bot"
+  ],
+  "author": "CronosGP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cronosgp/twitterbot/issues"
+  },
+  "homepage": "https://github.com/cronosgp/twitterbot#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "twit": "^2.2.11",
+    "twitter": "^1.7.1"
+  }
+}
