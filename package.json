@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/cronosgp/twitterbot#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "twit": "^2.2.11",
     "twitter": "^1.7.1"
   }
